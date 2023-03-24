@@ -2,8 +2,8 @@
 name: Yuping Li, Ph.D.
 startdate: [2019-01-01]
 enddate: []
-image: {{ site.baseurl }}/static/img/members/Yuping.jpg
-altimage: {{ site.baseurl }}/static/img/members/Yuping mask.jpg
+image: /jbd-lab/static/img/members/Yuping.jpg
+altimage: /jbd-lab/static/img/members/Yuping mask.jpg
 position: Postdoctoral Fellow
 #current:
 pronouns: She/her/hers

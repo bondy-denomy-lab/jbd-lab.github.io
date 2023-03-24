@@ -2,8 +2,8 @@
 name: Sukrit Silas, Ph.D.
 startdate: [2018-01-01]
 enddate: []
-image: {{ site.baseurl }}/static/img/members/Sukrit.jpg
-altimage: {{ site.baseurl }}/static/img/members/Sukrit mask.jpg
+image: /jbd-lab/static/img/members/Sukrit.jpg
+altimage: /jbd-lab/static/img/members/Sukrit mask.jpg
 position: Damon Runyon Postdoctoral Fellow
 #current:
 pronouns: He/him/his

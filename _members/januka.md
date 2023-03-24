@@ -2,8 +2,8 @@
 name: Januka Athukoralage
 startdate: [2021-10-01]
 enddate: [2022-10-01]
-image: {{ site.baseurl }}/static/img/members/Januka.jpg #365 x 365 pixels, 72 dpi
-altimage: {{ site.baseurl }}/static/img/members/Januka mask.jpg #365 x 365 pixels, 72 dpi
+image: /jbd-lab/static/img/members/Januka.jpg #365 x 365 pixels, 72 dpi
+altimage: /jbd-lab/static/img/members/Januka mask.jpg #365 x 365 pixels, 72 dpi
 position: EMBO Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: He/him/his #personal pronouns

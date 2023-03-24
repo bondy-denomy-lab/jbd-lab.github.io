@@ -2,8 +2,8 @@
 name: Ben Rauch, Ph.D.
 startdate: [2016-01-01]
 enddate: [2017-01-01]
-#image: {{ site.baseurl }}/static/img/members/joe.jpg
-#altimage: {{ site.baseurl }}/static/img/members/Fraser_pb.jpg
+#image: /jbd-lab/static/img/members/joe.jpg
+#altimage: /jbd-lab/static/img/members/Fraser_pb.jpg
 position: Postdoctoral Fellow
 current: "Sr. Director, Discovery – [Mammoth Biosciences] (https://mammoth.bio/) @ Brisbane, CA"
 pronouns: He/him/his

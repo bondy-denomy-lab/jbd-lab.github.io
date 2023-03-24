@@ -2,8 +2,8 @@
 name: Nicole Marino, Ph.D.
 startdate: [2017-01-01]
 enddate: []
-image: {{ site.baseurl }}/static/img/members/Nicole.jpg
-altimage: {{ site.baseurl }}/static/img/members/Nicole mask.jpg
+image: /jbd-lab/static/img/members/Nicole.jpg
+altimage: /jbd-lab/static/img/members/Nicole mask.jpg
 position: Postdoctoral Fellow
 #current:
 pronouns: She/her/hers
