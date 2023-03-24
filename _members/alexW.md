@@ -9,7 +9,7 @@ position: Junior Specialist
 pronouns: He/him/his
 email: 	alexei.wirganowicz (at) UCSF.edu
 #scholar: vhX-qAgAAAAJ
-#UCSF: https://profiles.ucsf.edu/yuping.li
+#UCSF: yuping.li
 #twitter: liyuping927
 linkedin: alexwirganowicz
 #orcid: 0000-0003-2057-3271

@@ -9,7 +9,7 @@ position: Damon Runyon Postdoctoral Fellow
 pronouns: He/him/his
 email: 	sukrit.silas (at) UCSF.edu
 scholar: 5mHW8IYAAAAJ
-UCSF: https://profiles.ucsf.edu/sukrit.silas
+UCSF: sukrit.silas
 linkedin: sukritsilas
 orcid: 0000-0003-3251-8579
 description: "Sukrit is a Damon Runyon Fellow in the Bondy-Denomy lab. Sukrit is developing a computational and experimental platform to systematically explore phage-encoded strategies for interfering with bacterial cells. Complex interactions in prokaryotic communities (such as the gut microbiome) can often lead to genetic information being exchanged, modified, and reused by competing species. Using comparative genomics he hopes to discover new biological processes that might have been missed by classical approaches. Prior to the Bondy-Denomy lab, he was a postdoc in Jonathan Weissman’s lab at UCSF, where he worked on pooled CRISPRi screening methods to investigate dengue-virus infections in monocyte derived dendritic cells, and led an oceanic viral survey that doubled the number of known RNA viruses in the biosphere.

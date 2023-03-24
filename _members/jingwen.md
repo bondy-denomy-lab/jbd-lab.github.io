@@ -9,7 +9,7 @@ position: Postdoctoral Fellow
 pronouns: She/her/hers
 email: 	jingwen.guan (at) UCSF.edu
 scholar: 9TotBq4AAAAJ
-UCSF: https://profiles.ucsf.edu/jingwen.guan
+UCSF: jingwen.guan
 #twitter: CarionHeloise
 linkedin: jingwen-guan-36768518a
 #github: fraserlab

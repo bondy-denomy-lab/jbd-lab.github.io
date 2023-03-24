@@ -9,7 +9,7 @@ position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 pronouns: She/her/hers
 email: 	claire.kokontis (at) UCSF.edu
 #scholar: tKytY3cAAAAJ
-#UCSF: https://profiles.ucsf.edu/shweta.karambelkar
+#UCSF: shweta.karambelkar
 #twitter: shweta3003
 #linkedin: shweta-karambelkar-944679b5
 #github: mjoh223

@@ -9,7 +9,7 @@ position: Postdoctoral Fellow
 pronouns: She/her/hers
 email: 	nicole.blackburn-marino (at) UCSF.edu
 scholar: fYSelFMAAAAJ
-UCSF: https://profiles.ucsf.edu/nicole.blackburn-marino
+UCSF: nicole.blackburn-marino
 twitter: Nicole_D_Marino
 linkedin: nicole-marino-22384383
 orcid: 0000-0002-7305-8225

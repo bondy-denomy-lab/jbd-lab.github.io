@@ -9,7 +9,7 @@ current: Posdoctoral Fellow at EMBL
 pronouns: She/her/hers
 email: 	yuping.li (at) UCSF.edu
 scholar: vhX-qAgAAAAJ
-UCSF: https://profiles.ucsf.edu/yuping.li
+UCSF: yuping.li
 twitter: liyuping927
 linkedin: yuping-li-bb34a697
 orcid: 0000-0003-2057-3271

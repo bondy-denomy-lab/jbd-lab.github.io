@@ -9,7 +9,7 @@ position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 pronouns: She/her/hers
 email: 	alexis.villani (at) UCSF.edu
 scholar: 9zVvj2gAAAAJ
-#UCSF: https://profiles.ucsf.edu/sukrit.silas
+#UCSF: sukrit.silas
 #linkedin: VillaniAlexis
 orcid: 0000-0002-9309-1540
 twitter: VillaniAlexis
