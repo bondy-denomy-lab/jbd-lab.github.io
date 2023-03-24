@@ -2,8 +2,8 @@
 name: Joel Berry, Ph.D.
 startdate: [2016-01-01]
 enddate: [2017-01-01]
-#image: /static/img/members/joe.jpg
-#altimage: /static/img/members/Fraser_pb.jpg
+#image: {{ site.baseurl }}/static/img/members/joe.jpg
+#altimage: {{ site.baseurl }}/static/img/members/Fraser_pb.jpg
 position: Associate Specialist
 current: "Principal Scientist – [Felix Biotechnology] (https://www.felixbt.com/) @ San Francisco, CA"
 pronouns: He/him/his

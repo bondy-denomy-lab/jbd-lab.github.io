@@ -2,8 +2,8 @@
 name: Eric laderman
 startdate: [2020-01-01]
 enddate: [2021-01-01]
-#image: /static/img/members/joe.jpg
-#altimage: /static/img/members/Fraser_pb.jpg
+#image: {{ site.baseurl }}/static/img/members/joe.jpg
+#altimage: {{ site.baseurl }}/static/img/members/Fraser_pb.jpg
 position: Junior Specialist
 #current:
 pronouns: he/him/his

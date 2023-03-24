@@ -2,8 +2,8 @@
 name: Jingwen Guan, Ph.D.
 startdate: [2020-01-01]
 enddate: [2022-10-01]
-image: /static/img/members/Jingwen.jpg
-altimage: /static/img/members/Jingwen mask.jpg
+image: {{ site.baseurl }}/static/img/members/Jingwen.jpg
+altimage: {{ site.baseurl }}/static/img/members/Jingwen mask.jpg
 position: Postdoctoral Fellow
 #current:
 pronouns: She/her/hers

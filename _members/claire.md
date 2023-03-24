@@ -2,8 +2,8 @@
 name: Claire Kokontis
 startdate: [2021-01-01]
 enddate: []
-image: /static/img/members/Claire.jpg
-altimage: /static/img/members/Claire mask.jpg
+image: {{ site.baseurl }}/static/img/members/Claire.jpg
+altimage: {{ site.baseurl }}/static/img/members/Claire mask.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: She/her/hers

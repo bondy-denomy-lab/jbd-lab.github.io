@@ -2,8 +2,8 @@
 name: Deepto Mozumdar
 startdate: [2021-09-01]
 enddate: []
-image: /static/img/members/Deepto.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Deepto mask.jpg #365 x 365 pixels, 72 dpi
+image: {{ site.baseurl }}/static/img/members/Deepto.jpg #365 x 365 pixels, 72 dpi
+altimage: {{ site.baseurl }}/static/img/members/Deepto mask.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: He/him/his #personal pronouns

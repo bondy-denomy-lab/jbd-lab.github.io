@@ -2,8 +2,8 @@
 name: Matthew C. Johnson
 startdate: [2019-01-01]
 enddate: []
-image: /static/img/members/Matt.jpg
-altimage: /static/img/members/Matt mask.jpg
+image: {{ site.baseurl }}/static/img/members/Matt.jpg
+altimage: {{ site.baseurl }}/static/img/members/Matt mask.jpg
 position: Graduate Student, [Bioinformatics](https://bmi.ucsf.edu/)
 #current:
 pronouns: He/him/his

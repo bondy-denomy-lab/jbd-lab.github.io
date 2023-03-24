@@ -2,8 +2,8 @@
 name: Adair Borges, Ph.D.
 startdate: [2016-01-01]
 enddate: [2021-01-01]
-#image: /static/img/members/joe.jpg
-#altimage: /static/img/members/Fraser_pb.jpg
+#image: {{ site.baseurl }}/static/img/members/joe.jpg
+#altimage: {{ site.baseurl }}/static/img/members/Fraser_pb.jpg
 position: Graduate Student, [Biomedical Sciences](https://bms.ucsf.edu/)
 #current:
 pronouns: She/her/hers
