@@ -2,8 +2,8 @@ title: "JBD Lab"
 description: "This is the official web page for the Bondy-Denomy Lab at UCSF."
 
 #domain: mjoh223.github.io
-url: https://mjoh223.github.io
-baseurl: /jbd-lab.github.io
+#url: https://mjoh223.github.io
+#baseurl: /jbd-lab.github.io
 
 plugins:
   - jekyll-paginate
@@ -26,11 +26,6 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
 
 collections:
         affiliates:
@@ -48,6 +43,4 @@ collections:
         visitors:
                 output: true
         undergrads:
-                output: true
-        pets:
                 output: true
