@@ -1,9 +1,11 @@
+baseurl: /jbd-lab
+
 title: "JBD Lab"
 description: "This is the official web page for the Bondy-Denomy Lab at UCSF."
 
 #domain: mjoh223.github.io
-url: https://bondy-denomy-lab.github.io/
-baseurl: /jbd-lab.github.io
+#url: https://bondy-denomy-lab.github.io/
+
 
 plugins:
   - jekyll-paginate
