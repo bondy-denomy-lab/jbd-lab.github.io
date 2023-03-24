@@ -3,10 +3,10 @@ title: "Foreign DNA acquisition by the I-F CRISPR-Cas system requires all compon
 authors: "Vorontsova D, Datsenko KA, Medvedeva S, **Bondy-Denomy J**, Savitskaya EE, Pougach K, Logacheva M, Wiedenheft B, Davidson AR, Severinov K, Semenova E."
 journal: 'Nucleic Acids Research'
 pub_date: '2015-11-19'
-#image: '{{ site.baseurl }}/static/img/pub/lina_IC_acrs.png'
+#image: '/jbd-lab/static/img/pub/lina_IC_acrs.png'
 pmid: '26586803'
 pmcid: 'PMC4678832'
-pdf: '{{ site.baseurl }}/static/pdf/publications/vorontsova_2015.pdf'
+pdf: '/jbd-lab/static/pdf/publications/vorontsova_2015.pdf'
 #links:
 #- name: Davidson lab @ University of Toronto
 #  url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
