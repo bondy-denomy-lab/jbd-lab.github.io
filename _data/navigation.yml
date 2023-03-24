@@ -1,31 +1,31 @@
 - name: home
-  link: "/"
+  link: "/jbd-lab"
   group: home
 
 - name: research
-  link: "/research"
+  link: "/jbd-lab/research"
   group: research
 
 - name: publications
-  link: "/publications"
+  link: "/jbd-lab/publications"
   group: publications
 
 - name: members
-  link: "/members"
+  link: "/jbd-lab/members"
   group: members
 
 - name: philosophy
-  link: "/philosophy"
+  link: "/jbd-lab/philosophy"
   group: philosophy
 
 - name: news
-  link: "/news"
+  link: "/jbd-lab/news"
   group: news
 
 - name: join
-  link: "/join"
+  link: "/jbd-lab/join"
   group: join
 
 - name: contact
-  link: "/contact"
+  link: "/jbd-lab/contact"
   group: contact
