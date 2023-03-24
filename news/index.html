@@ -8,7 +8,7 @@ group: news
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <hr>
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2><a href="/jbd-lab{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
     <span class="author"><a href="/jbd-lab/members#{{post.author}}">{{post.author}}</a></span><br>
     <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
