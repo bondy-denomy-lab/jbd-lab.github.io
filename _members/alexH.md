@@ -2,8 +2,8 @@
 name: Alex Hong
 startdate: [2021-01-01]
 enddate: []
-image: /jbd-lab/static/img/members/Ash.jpg
-altimage: /jbd-lab/static/img/members/Ash mask.jpg
+image: /static/img/members/Ash.jpg
+altimage: /static/img/members/Ash mask.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: He/him/his

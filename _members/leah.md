@@ -2,8 +2,8 @@
 name: Leah Roe
 startdate: [2019-01-01]
 enddate: [2020-01-01]
-#image: /jbd-lab/static/img/members/joe.jpg
-#altimage: /jbd-lab/static/img/members/Fraser_pb.jpg
+#image: /static/img/members/joe.jpg
+#altimage: /static/img/members/Fraser_pb.jpg
 position: Junior Specialist – Joint with Fraser Lab
 #current:
 pronouns: She/her/hers

@@ -2,8 +2,8 @@
 name: Yuping Li, Ph.D.
 startdate: [2019-01-01]
 enddate: [2022-10-01]
-image: /jbd-lab/static/img/members/Yuping.jpg
-altimage: /jbd-lab/static/img/members/Yuping mask.jpg
+image: /static/img/members/Yuping.jpg
+altimage: /static/img/members/Yuping mask.jpg
 position: Postdoctoral Fellow
 current: Posdoctoral Fellow at EMBL
 pronouns: She/her/hers

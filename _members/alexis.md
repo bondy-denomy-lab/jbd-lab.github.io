@@ -2,8 +2,8 @@
 name: Alexis Vilani
 startdate: [2021-01-01]
 enddate: []
-image: /jbd-lab/static/img/members/Lexie.jpg
-altimage: /jbd-lab/static/img/members/Lexie mask.jpg
+image: /static/img/members/Lexie.jpg
+altimage: /static/img/members/Lexie mask.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: She/her/hers

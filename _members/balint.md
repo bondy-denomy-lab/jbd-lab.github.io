@@ -2,8 +2,8 @@
 name: Bálint Csörgo, Ph.D.
 startdate: [2017-01-01]
 enddate: [2021-01-01]
-#image: /jbd-lab/static/img/members/joe.jpg
-#altimage: /jbd-lab/static/img/members/Fraser_pb.jpg
+#image: /static/img/members/joe.jpg
+#altimage: /static/img/members/Fraser_pb.jpg
 position: Specialist – Joint with Kortemme and Fraser Lab
 #current:
 pronouns: She/her/hers

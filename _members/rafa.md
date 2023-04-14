@@ -2,8 +2,8 @@
 name: Rafael Pinilla Redondo
 startdate: [2018-01-01]
 enddate: [2019-01-01]
-#image: /jbd-lab/static/img/members/joe.jpg
-#altimage: /jbd-lab/static/img/members/Fraser_pb.jpg
+#image: /static/img/members/joe.jpg
+#altimage: /static/img/members/Fraser_pb.jpg
 position: Visiting Graduate Student
 #current:
 pronouns: He/him/his

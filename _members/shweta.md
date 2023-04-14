@@ -2,8 +2,8 @@
 name: Shweta Karambelkar, Ph.D.
 startdate: [2018-01-01]
 enddate: [2022-12-01]
-image: /jbd-lab/static/img/members/Shweta.jpg
-altimage: /jbd-lab/static/img/members/Shweta mask.jpg
+image: /static/img/members/Shweta.jpg
+altimage: /static/img/members/Shweta mask.jpg
 position: Postdoctoral Fellow
 current: Scientist at Orbital Therapeutics
 pronouns: She/her/hers
