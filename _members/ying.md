@@ -2,8 +2,8 @@
 name: Ying Yang, Ph.D.
 startdate: [2022-10-03]
 enddate: []
-image: /static/img/members/ying.jpg
-altimage: /static/img/members/ying_mask.jpg
+image: /static/img/members/ying.png
+altimage: /static/img/members/ying_mask.png
 position: Assistant Specialist
 #current:
 pronouns: She/her/hers

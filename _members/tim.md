@@ -2,7 +2,7 @@
 name: Timothy Klein, Ph.D.
 startdate: [2023-01-01]
 enddate: []
-image: /static/img/members/tim.jpg
+image: /static/img/members/tim.jpeg
 altimage: /static/img/members/tim_mask.jpg
 position: Postdoctoral Fellow
 #current:
