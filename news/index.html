@@ -1,5 +1,5 @@
 ---
-title: News from the Fraser Lab
+title: News from the Bondy-Denomy Lab
 layout: post
 group: news
 ---
@@ -8,9 +8,9 @@ group: news
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <hr>
-  <h2><a href="/jbd-lab{{ post.url }}">{{ post.title }}</a></h2>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
-    <span class="author"><a href="/jbd-lab/members#{{post.author}}">{{post.author}}</a></span><br>
+    <span class="author"><a href="/members#{{post.author}}">{{post.author}}</a></span><br>
     <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
   </p>
   <div class="content">
@@ -28,9 +28,9 @@ group: news
     {% if page == paginator.page %}
       <li class="active">{{ page }}&nbsp;</li>
     {% elsif page == 1 %}
-      <li><a href="/jbd-lab/news/">{{ page }}</a>&nbsp;</li>
+      <li><a href="/news/">{{ page }}</a>&nbsp;</li>
     {% else %}
-      <li><a href="/jbd-lab/news/page{{ page }}">{{ page }}</a>&nbsp;</li>
+      <li><a href="/news/page{{ page }}">{{ page }}</a>&nbsp;</li>
     {% endif %}
   {% endfor %}
 
