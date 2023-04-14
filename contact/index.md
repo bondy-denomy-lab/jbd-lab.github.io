@@ -54,4 +54,4 @@ b.	Bike: There are bike racks next to the entrance of the Genentech Hall Entranc
 7.	Walk until you find a breakroom, enter, and then walk up to and open the pair of double glass doors.
 8.	This is a share office space and Joe’s room is straight in front of the double doors.
 
-<img class="img-fluid" src="/jbd-lab/static/img/map_to_mission_bay_JBD.png" alt="Map of Mission Bay">
+<img class="img-fluid" src="/static/img/map_to_mission_bay_JBD.png" alt="Map of Mission Bay">

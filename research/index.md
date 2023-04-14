@@ -58,7 +58,7 @@ Historically, we have been focused on studying CRISPR-Cas systems in their natur
 </div>
 </div>
 <div class="col-md-6 order-md-1 align-self-center ">
-<img class="img-fluid" src="{{ site.baseurl }}/static/img/pub/huiting_2021.png">
+<img class="img-fluid" src="{{ site.baseurl }}/static/img/pub/New_immune_overview_032023.png">
 </div>
 </div>
 
