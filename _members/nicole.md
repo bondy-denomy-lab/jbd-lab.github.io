@@ -7,7 +7,7 @@ altimage: /static/img/members/Nicole mask.jpg
 position: Postdoctoral Fellow
 #current:
 pronouns: She/her/hers
-email: 	nicole.blackburn-marino (at) UCSF.edu
+email: nicole.blackburn-marino (at) UCSF.edu
 scholar: fYSelFMAAAAJ
 UCSF: nicole.blackburn-marino
 twitter: Nicole_D_Marino
