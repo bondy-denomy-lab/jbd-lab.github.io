@@ -1,7 +1,7 @@
 ---
 name: Yuping Li, Ph.D.
 startdate: [2019-01-01]
-enddate: [2022-10-01]
+enddate: []
 image: /static/img/members/Yuping.jpg
 altimage: /static/img/members/Yuping mask.jpg
 position: Postdoctoral Fellow
