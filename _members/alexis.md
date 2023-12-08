@@ -1,5 +1,5 @@
 ---
-name: Alexis Vilani
+name: Alexis Villani
 startdate: [2021-01-01]
 enddate: []
 image: /static/img/members/Lexie.jpg
