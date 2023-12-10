@@ -7,7 +7,7 @@ altimage: /static/img/members/Claire mask.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: She/her/hers
-email: 	claire.kokontis (at) UCSF.edu
+email: 	Claire.Kokontis@UCSF.edu
 #scholar: tKytY3cAAAAJ
 #UCSF: shweta.karambelkar
 #twitter: shweta3003
