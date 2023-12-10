@@ -1,5 +1,5 @@
 ---
-name: Eric laderman
+name: Eric Laderman
 startdate: [2020-01-01]
 enddate: [2021-01-01]
 #image: /static/img/members/joe.jpg
