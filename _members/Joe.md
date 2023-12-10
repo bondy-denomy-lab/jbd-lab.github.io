@@ -1,7 +1,7 @@
 ---
 name: Joe Bondy-Denomy, Ph.D.
-#startdate: [2015-01-01]
-#enddate: []
+startdate: [2015-01-01]
+enddate: []
 image: /static/img/members/Joe.jpg
 altimage: /static/img/members/Joe mask.jpg
 position: Principal Investigator
