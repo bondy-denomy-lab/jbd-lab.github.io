@@ -7,7 +7,7 @@ altimage: /static/img/members/Lexie mask.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: She/her/hers
-email: 	alexis.villani (at) UCSF.edu
+email: 	Alexis.Villani@UCSF.edu
 scholar: 9zVvj2gAAAAJ
 #UCSF: sukrit.silas
 #linkedin: VillaniAlexis
