@@ -1,7 +1,7 @@
 ---
 name: Alex Hong
-#startdate: [2021-01-01]
-#enddate: []
+startdate: [2021-01-01]
+enddate: []
 image: /static/img/members/Ash.jpg
 altimage: /static/img/members/Ash mask.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
