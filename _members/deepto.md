@@ -7,7 +7,7 @@ altimage: /static/img/members/Deepto mask.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: He/him/his #personal pronouns
-email: deepto.mozumdar (at) ucsf.edu #Preferred public email address
+email: Deepto.Mozumdar@ucsf.edu #Preferred public email address
 #scholar: XXXXXXXXXXXX #Google Scholar User ID
 #website: https://website.com/
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
