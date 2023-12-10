@@ -1,18 +1,18 @@
 ---
 name: Joe Bondy-Denomy, Ph.D.
-startdate: [2015-01-01]
-enddate: []
+#startdate: [2015-01-01]
+#enddate: []
 image: /static/img/members/Joe.jpg
 altimage: /static/img/members/Joe mask.jpg
 position: Principal Investigator
 #current:
 pronouns: He/him/his
-email: 	joseph.bondy-denomy (at) UCSF.edu
+email: 	Joseph.Bondy-Denomy@UCSF.edu
 scholar: Y-iVTvMAAAAJ
 UCSF: joseph.bondy-denomy
-linkedin: joebondydenomy
+linkedin: joe-bondy-denomy-6ab87465
 orcid: 0000-0002-4909-9481
-description: "Joe is an Associate Professor at UCSF, in the Department of Microbiology & Immunology. Joe went to the [University of Waterloo](https://uwaterloo.ca/) for his undergrad in Biology (Microbiology specialization) and spent time as a co-op student in labs at Western University (London, ON) and McGill University (Montreal, QC). Joe then attended the University of Toronto to complete his PhD in [Alan Davidson's Lab](http://individual.utoronto.ca/Davidsonlab/#) where he studied interactions between bacteriophages and the human pathogen Pseudomonas aeruginosa, focusing on the effects of lysogeny and the CRISPR-Cas immune system. In 2015, Joe started the lab at UCSF as a [Sandler Fellow](https://fellows.ucsf.edu/) and in November of 2017, became an Assistant Professor. In July of 2020, he was promoted to Associate Professor with tenure. Joe also become an investigator with the UCB Innovative Genomics Institute](https://innovativegenomics.org/about-us/) in 2019.
+description: "Joe is an Associate Professor at UCSF, in the Department of Microbiology & Immunology. Joe went to the [University of Waterloo](https://uwaterloo.ca/) for his undergrad in Biology (Microbiology specialization) and spent time as a co-op student in labs at Western University (London, ON) and McGill University (Montreal, QC). Joe then attended the University of Toronto to complete his PhD in [Alan Davidson's Lab](http://individual.utoronto.ca/Davidsonlab/#) where he studied interactions between bacteriophages and the human pathogen Pseudomonas aeruginosa, focusing on the effects of lysogeny and the CRISPR-Cas immune system. In 2015, Joe started the lab at UCSF as a [Sandler Fellow](https://fellows.ucsf.edu/) and in November of 2017, became an Assistant Professor. In July of 2020, he was promoted to Associate Professor with tenure. Joe also become an investigator with the [UCB Innovative Genomics Institute](https://innovativegenomics.org/about-us/) in 2019.
 
 Alongside all of the exciting scientific endeavors Joe is involved with in lab, he is also a scientific advisory board member of [SNIPR Biome](https://www.sniprbiome.com/) and [Excision Biotherapeutics](https://www.excision.bio/) and is a scientific advisory board member and co-founder of [Acrigen Biosciences](https://www.acrigen.com/). Joe also has a long-standing love of baseball, Canada, and first and foremost, his wife and two sons.  
 
