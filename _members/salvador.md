@@ -4,7 +4,7 @@ startdate: [2016-01-01]
 enddate: [2017-01-01]
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
-#position: Visiting Graduate Student
+position: Visiting Graduate Student
 #current:
 pronouns: He/him/his
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
