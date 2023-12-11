@@ -7,7 +7,7 @@ altimage: /static/img/members/Sukrit mask.jpg
 position: Damon Runyon Postdoctoral Fellow
 #current:
 pronouns: He/him/his
-email: 	sukrit.silas (at) UCSF.edu
+email: 	sukrit.silas@ucsf.edu
 scholar: 5mHW8IYAAAAJ
 UCSF: sukrit.silas
 linkedin: sukritsilas
