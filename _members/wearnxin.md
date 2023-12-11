@@ -11,7 +11,7 @@ email:  Wearnxin.Yee@ucsf.edu
 scholar: z_OiN0wAAAAJ
 #website: https://website.com/
 #UCSF: XXXXXXXX
-twitter: @wearnxin
+twitter: wearnxin
 linkedin: wearn-xin-edeline-yee-83b10115b
 #github: username
 orcid: 0000-0002-5998-5321
