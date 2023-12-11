@@ -10,7 +10,7 @@ pronouns: she/her/hers #personal pronouns
 email: Wearnxin.Yee@ucsf.edu 
 #scholar: Wearn Xin Yee #Google Scholar User ID
 #website: https://website.com/
-#UCSF: XXXXXXXX #UCSF Profile ID - Employees only
+#UCSF: XXXXXXXX
 twitter: @wearnxin
 linkedin: wearn-xin-edeline-yee-83b10115b
 #github: username
