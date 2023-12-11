@@ -7,8 +7,8 @@ enddate: []
 position: Postdoctoral fellow
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
-email: Wearnxin.Yee@ucsf.edu 
-#scholar: Wearn Xin Yee
+email:  Wearnxin.Yee@ucsf.edu 
+scholar: z_OiN0wAAAAJ
 #website: https://website.com/
 #UCSF: XXXXXXXX
 twitter: @wearnxin
