@@ -7,7 +7,7 @@ altimage: /static/img/members/tim_mask.jpg
 position: Postdoctoral Fellow
 #current:
 pronouns: He/him/his
-email: 	timothy.klein@ucsf.edu
+email: 	Timothy.Klein@ucsf.edu
 scholar: X5qURHgAAAAJ
 UCSF: timothy.klein
 twitter: TimothyAKlein
