@@ -1,7 +1,7 @@
 ---
 name: Ying Yang, Ph.D.
-#startdate: [2022-10-03]
-#enddate: []
+startdate: [2022-10-03]
+enddate: []
 image: /static/img/members/ying.png
 altimage: /static/img/members/ying_mask.png
 position: Assistant Specialist
