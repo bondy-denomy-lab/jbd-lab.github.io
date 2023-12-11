@@ -7,7 +7,7 @@ altimage: /static/img/members/iana_mask.png
 position: Postdoctoral Fellow
 #current:
 pronouns: She/her/hers 
-email:  Iana.Fedorova@UCSF.edu
+email:  Iana.Fedorova@ucsf.edu
 scholar: Le-p9d4AAAAJ&hl
 twitter: femtokot
 linkedin: iana-fedorova-b7843b129
