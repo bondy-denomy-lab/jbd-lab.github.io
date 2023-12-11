@@ -7,7 +7,7 @@ altimage: /static/img/members/Ash mask.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: He/him/his
-email: 	Alex.Hong@UCSF.edu
+email: 	Alex.Hong@ucsf.edu
 scholar: OJz8Kd4AAAAJ
 #website:
 #twitter: erinhuiting
