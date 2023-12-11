@@ -1,6 +1,6 @@
 ---
 name: Wearn-Xin (Edeline) Yee, Ph.D.
-startdate: 2023-08-01
+startdate: [2023-08-01]
 enddate: []
 #image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
