@@ -7,7 +7,7 @@ altimage: /static/img/members/Yuping mask.jpg
 position: Postdoctoral Fellow
 current: Posdoctoral Fellow at EMBL
 pronouns: She/her/hers
-email: 	yuping.li (at) UCSF.edu
+email: 	Yuping.Li@ucsf.edu
 scholar: vhX-qAgAAAAJ
 UCSF: yuping.li
 twitter: liyuping927
