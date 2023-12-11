@@ -7,7 +7,7 @@ altimage: /static/img/members/Joe mask.jpg
 position: Principal Investigator
 #current:
 pronouns: He/him/his
-email: 	Joseph.Bondy-Denomy@UCSF.edu
+email: 	Joseph.Bondy-Denomy@ucsf.edu
 scholar: Y-iVTvMAAAAJ
 UCSF: joseph.bondy-denomy
 linkedin: joe-bondy-denomy-6ab87465
