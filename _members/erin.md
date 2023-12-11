@@ -7,7 +7,7 @@ altimage: /static/img/members/Erin mask.jpg
 position: Graduate Student, [Biomedical Sciences](https://bms.ucsf.edu/)
 #current:
 pronouns: She/her/hers
-email: 	Erin.Huiting@UCSF.edu
+email: 	Erin.Huiting@ucsf.edu
 scholar: NJKcqOcAAAAJ
 website: https://erin.phd/
 twitter: erinhuiting
