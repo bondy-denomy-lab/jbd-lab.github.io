@@ -1,6 +1,6 @@
 ---
 title: "The φPA3 phage nucleus is enclosed by a self-assembling 2D crystalline lattice" 
-authors: "Eliza S. Nieweglowska, Axel F. Brilot, Melissa Méndez-Moran , **Claire Kokontis**, Minkyung Baek, Junrui Li, Yifan Cheng, David Baker, Joseph Bondy-Denomy & David A. Agard"
+authors: "Eliza S. Nieweglowska, Axel F. Brilot, Melissa Méndez-Moran, **Claire Kokontis**, Minkyung Baek, Junrui Li, Yifan Cheng, David Baker, Joseph Bondy-Denomy & David A. Agard"
 journal: 'Nature Communications'
 pub_date: '2023-02-03'
 image: '/static/img/pub/shell.png'
