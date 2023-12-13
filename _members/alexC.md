@@ -4,7 +4,7 @@ startdate: [2023-09-01]
 enddate: []
 #image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: Postdoctoral fellow
+position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: Alex.Chan@ucsf.edu #Preferred public email address
