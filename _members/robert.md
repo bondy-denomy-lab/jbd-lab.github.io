@@ -5,7 +5,7 @@ enddate: [2023-09-01]
 #image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Undergraduate intern
-#subsequent:  update once you become an alumnus
+subsequent:  Student - UNC Chapel Hill
 #pronouns: they/them/theirs #personal pronouns
 #email: username (at) domain.com #Preferred public email address
 #scholar: XXXXXXXXXXXX #Google Scholar User ID
