@@ -1,7 +1,7 @@
 ---
 name: Ethel Enoex-Godonoo
 startdate: [2018-01-01]
-enddate: [2023-12-01]
+enddate: []
 image: /static/img/members/ethel.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Administrative Assistant
