@@ -26,7 +26,7 @@ group: contact
   School of Medicine<br>
   600 16th Street, Genentech Hall Room N372E<br>
   San Francisco, CA 94143<br>
-  email: joseph.bondy-denomy (at) ucsf.edu <br>
+  email: joseph.bondy-denomy@ucsf.edu <br>
 
 </div>
 
@@ -35,7 +35,7 @@ group: contact
   <h4> Ethel Enoex Godonoo</h4>
   Administrative Assistant to Dr. Joe Bondy-Denomy and others<br>
   [Department of Microbiology and Immunology](https://microbiology.ucsf.edu/)<br>
-  email: ethel.godonoo (at) ucsf.edu<br>
+  email: ethel.godonoo@ucsf.edu<br>
 
 </div>
 
