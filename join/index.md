@@ -8,7 +8,7 @@ group: join
 The JBD Lab welcomes applicants from any race, ethnicity, nationality, religion, socioeconomic status, political affiliation, caregiver or family commitments, age, gender expression, gender identity, sexual orientation, mental or physical ability, and learning styles. We are committed to maintaining an inclusive and welcoming lab environment and believe that everyone should be invited to, and deserves, a seat at the table.
 ##### Read more about [our mission and core values.](/compact/)
 
-We’re always looking for passionate, curious, and capable people to join our lab even if the position is not currently advertised. We strive to provide excellent training in molecular genetics and microbiology. Please send your CV/Resume to [Dr. Joe Bondy-Denomy](joseph.bondy-denomy@ucsf.edu). <!-- Currently we have **open positions** for people with the following skills: [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
+We’re always looking for passionate, curious, and capable people to join our lab even if the position is not currently advertised. We strive to provide excellent training in molecular genetics and microbiology. Please send your CV/Resume to Dr. Joe Bondy-Denomy. <!-- Currently we have **open positions** for people with the following skills: [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
 <br/>
 
 ## Graduate Students
@@ -21,7 +21,7 @@ To date, the graduate students from the Bondy-Denomy Lab have participated in th
 
 ## Postdoctoral Fellows
 
-Interest in Postdoctoral positions should be emailed directly to [Dr. Joe Bondy-Denomy](joseph.bondy-denomy@ucsf.edu). Postdoctoral Fellow candidates are encouraged to communicate the reason behind their interest in our lab and to be aware of opportunities for extramural funding and support.
+Interest in Postdoctoral positions should be emailed directly to Dr. Joe Bondy-Denomy. Postdoctoral Fellow candidates are encouraged to communicate the reason behind their interest in our lab and to be aware of opportunities for extramural funding and support.
 
 ## Other Visitors
 
