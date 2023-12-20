@@ -33,7 +33,7 @@ The JBD Lab values open, honest, and frequent communication to maintain trust an
 <br/>
 
 ## <a id="resolution">Conflict Resolution</a>
-The JBD Lab aims to create a supportive, positive, and inclusive environment and values collaboration in and beyond the lab. We recognize that conflict affects lab productivity and morale/wellbeing, so we have several avenues to manage and resolve conflict. In the case that conflict cannot be safely resolved between the involved individuals, Joe is always available to try and address and resolve the conflict at hand. If additional steps need to be taken, we have the opportunity to work with an external facilitator at UCSF’s [Office of the Ombuds](https://ombuds.ucsf.edu/) or a Restorative Justice Circle Facilitator](https://studentlife.ucsf.edu/circles).
+The JBD Lab aims to create a supportive, positive, and inclusive environment and values collaboration in and beyond the lab. We recognize that conflict affects lab productivity and morale/wellbeing, so we have several avenues to manage and resolve conflict. In the case that conflict cannot be safely resolved between the involved individuals, Joe is always available to try and address and resolve the conflict at hand. If additional steps need to be taken, we have the opportunity to work with an external facilitator at UCSF’s [Office of the Ombuds](https://ombuds.ucsf.edu/) or a [Restorative Justice Circle Facilitator](https://studentlife.ucsf.edu/circles).
 <br/>
 <br/>
 
@@ -55,7 +55,7 @@ The JBD Lab aims to foster meaningful and constructive relationships between peo
 <br/>
 
 ## <a id="prof_dev">Professional Development</a>
-The JBD Lab recognizes that the retention and advancement of young trainees in science, especially those from underrepresented backgrounds, requires a commitment to empowering trainees to become research leaders. Professional training and career exploration, alongside building a strong community of researchers, is critical. We ensure equal and open access to resources necessary for trainees to apply for grants and fellowships, participate and present at conferences, explore seminars and educational workshops, amongst many other opportunities. Alongside internal lab support, we actively encourage trainees to engage with UCSF’s Office of Career and Professional Development to further [develop professional skills]( (https://career.ucsf.edu/professional-skills)  and [explore careers](https://career.ucsf.edu/phds/career-exploration/MIND).
+The JBD Lab recognizes that the retention and advancement of young trainees in science, especially those from underrepresented backgrounds, requires a commitment to empowering trainees to become research leaders. Professional training and career exploration, alongside building a strong community of researchers, is critical. We ensure equal and open access to resources necessary for trainees to apply for grants and fellowships, participate and present at conferences, explore seminars and educational workshops, amongst many other opportunities. Alongside internal lab support, we actively encourage trainees to engage with UCSF’s Office of Career and Professional Development to further [develop professional skills](https://career.ucsf.edu/professional-skills)  and [explore careers](https://career.ucsf.edu/phds/career-exploration/MIND).
 <br/>
 <br/>
 
