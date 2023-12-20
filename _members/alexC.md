@@ -8,7 +8,7 @@ position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: Alex.Chan@ucsf.edu #Preferred public email address
-#scholar: PA8hR-IAAAAJ #Google Scholar User ID
+scholar: PA8hR-IAAAAJ #Google Scholar User ID
 #website: https://website.com/
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
 twitter: alexwaichan
