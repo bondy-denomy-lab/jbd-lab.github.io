@@ -2,8 +2,8 @@
 name: Wearn-Xin (Edeline) Yee, Ph.D.
 startdate: [2023-08-01]
 enddate: []
-#image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
-#altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/WearnXin.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/WearnXinFunny2.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
