@@ -1,5 +1,5 @@
 ---
-title: Change and Michelle rotate in the lab
+title: Chang and Michelle rotate in the lab
 author: Joe Bondy-Denomy
 layout: post
 group: news
