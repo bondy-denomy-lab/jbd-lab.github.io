@@ -1,7 +1,7 @@
 ---
-title: Deepto awarded the NIH F32 Ruth L. Kirschstein postdoctoral fellowship!
+title: Deepto receives NIH F32 award!
 author: Joe Bondy-Denomy
 layout: post
 group: news
 ---
-Congratulations Deepto!
+We congratulate Deepto on receiving the NIH F32 Ruth L. Kirschstein Post-doctoral Fellowship!
