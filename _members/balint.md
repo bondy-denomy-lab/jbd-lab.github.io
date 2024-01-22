@@ -15,5 +15,5 @@ twitter: BCsorgo
 linkedin: bálint-csörgő-8500a469
 #github: fraserlab
 orcid: 0000-0003-0397-6845
-subsequent: "MSCA Global Postdoctoral Fellow – [European Molecular Biology Laboratory](https://www.embl.org/) @ Heidelberg, Germany"
+subsequent: "MSCA Postdoctoral Fellow – [European Molecular Biology Laboratory](https://www.embl.org/) @ Heidelberg, Germany"
 ---
