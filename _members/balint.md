@@ -4,9 +4,9 @@ startdate: [2017-01-01]
 enddate: [2021-01-01]
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
-position: Specialist – Joint with Kortemme and Fraser Lab
+position: Postdoctoral Fellow
 #current:
-pronouns: She/her/hers
+pronouns: He/him/his
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
 scholar: LUD13qEAAAAJ
 #website:
