@@ -4,7 +4,7 @@ startdate: [2017-01-01]
 enddate: [2021-01-01]
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
-position: Postdoctoral Fellow
+position: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow
 #current:
 pronouns: He/him/his
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
