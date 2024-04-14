@@ -3,7 +3,7 @@ name: Daphne Chen
 startdate: [2021-06-21]
 enddate: []
 image: /static/img/members/Daphne2024.jpg #365 x 365 pixels, 72 dpi
-#altimage: /static/img/members/DaphneFunny2024.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/DaphneFunny2024.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
 #subsequent:  update once you become an alumnus
 pronouns: She/her/hers #personal pronouns
