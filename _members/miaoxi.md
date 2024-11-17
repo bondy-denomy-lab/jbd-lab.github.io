@@ -5,7 +5,7 @@ image: /static/img/members/miaoxi.jpeg
 altimage: /static/img/members/miaoxi_phage.jpeg
 position: Graduate Student, [Tetrad Program](https://tetrad.ucsf.edu/)
 pronouns: She/her/hers
-email:  Miaoxi.Liu@ucsf.edu
+email: Miaoxi.Liu@ucsf.edu
 twitter: Miaoxi328
 linkedin: Miaoxi Liu
 orcid: 0009-0000-2251-430X
