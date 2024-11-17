@@ -1,8 +1,8 @@
 ---
 name: Adolfo Cuesta
 startdate: [2024-07-15]
-image: /static/img/members/adolfo.jpg
-altimage: /static/img/members/adolfo_phage.jpg
+image: /static/img/members/adolfo.jpeg
+altimage: /static/img/members/adolfo_phage.jpeg
 position: Infectious Disease Clinical Fellow (https://infectiousdiseases.ucsf.edu/fellowship/current)
 pronouns: He/Him
 email: Adolfo.Cuesta@ucsf.edu
