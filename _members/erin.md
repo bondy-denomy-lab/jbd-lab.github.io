@@ -1,7 +1,7 @@
 ---
 name: Erin Huiting
 startdate: [2020-01-01]
-enddate: []
+enddate: [2024-08-01]
 image: /static/img/members/Erin.jpg
 altimage: /static/img/members/Erin mask.jpg
 position: Graduate Student, [Biomedical Sciences](https://bms.ucsf.edu/)
