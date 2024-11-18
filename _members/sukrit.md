@@ -1,7 +1,7 @@
 ---
 name: Sukrit Silas, Ph.D.
 startdate: [2018-01-01]
-enddate: []
+enddate: [2024-08-01]
 image: /static/img/members/Sukrit.jpg
 altimage: /static/img/members/Sukrit mask.jpg
 position: Damon Runyon Postdoctoral Fellow
