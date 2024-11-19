@@ -1,6 +1,6 @@
 ---
 name: Esther Shmidov
-startdate: [2024-03-Sep]
+startdate: [2024-09-03]
 image: /static/img/members/esther.jpeg
 altimage: /static/img/members/esther_phage.jpeg
 position: Postdoctoral Fellow
